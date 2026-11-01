@@ -11,8 +11,8 @@ using namespace std;
 
 int main()
 {
-    double R; 
-    double x; 
+    double R;
+    double x;
     double y;
 
     cout << "R = "; cin >> R;
@@ -26,5 +26,5 @@ int main()
     else
     {
         cout << "no !";
+    }
 }
-
